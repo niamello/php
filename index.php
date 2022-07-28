@@ -9,9 +9,8 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Project/PHP/PHPProject.php to edi
         <title></title>
     </head>
     <body>
-        <?php
-        // put your code here
-        echo "<h1>Olá Mundo!</h1>";
-        ?>
+       <h1>Tela Inicial</h1>
+       <br/><br/>
+       <button onclick="location.href='view/cadUsuario.php'">Cadastro de Usuário</button>
     </body>
 </html>
